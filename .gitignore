@@ -1,0 +1,15 @@
+node_modules/
+.env
+dist/
+build/
+.vscode/
+.vs
+.idea/
+.npmrc
+.parcel-cache/
+
+# Exclude architecture/design files
+*.drawio
+*.drawio.dtmp
+architecture.txt
+ARCHITECTURE-REVIEW.md
