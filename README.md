@@ -1,6 +1,6 @@
-# NADEC Voice AI Agent
+# Voice AI Agent
 
-An Arabic-speaking Voice AI Agent for NADEC (National Agricultural Development Company) built with Azure Communication Services (ACS) Call Automation, Azure OpenAI, and Azure AI Speech.
+An Arabic-speaking Voice AI Agent built with Azure Communication Services (ACS) Call Automation, Azure OpenAI, and Azure AI Speech.
 
 When customers call the NADEC phone number, the agent answers, greets them in Arabic, listens to their questions via speech-to-text, generates intelligent responses using GPT-4o, and speaks the answers back using text-to-speech — all in real time.
 
